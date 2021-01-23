@@ -3,10 +3,12 @@ layout: default
 title: Main
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# Hello. Welcome to Snowfall. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- If you're looking for the perfect website: [click here.](https://www.example.com)
+- If you're looking for custom software development: [click here.](https://www.example.com)
+- If you're looking for something else business relates: <marcus@snowfalldev.com>
+- If you're looking for a friend: (sorry we don't do that here)
 
 What else do you need?
 
