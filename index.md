@@ -10,18 +10,7 @@ title: Main
 - If you're looking for something else business related: <marcus@snowfalldev.com>
 - If you're looking for a friend: (sorry we don't do that here)
 
-
-
-
-
-
-
-
-
-
-
-
-
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br>
 
 
 
