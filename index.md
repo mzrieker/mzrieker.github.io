@@ -5,7 +5,7 @@ title: CPA Game Enterprises
 
 # Welcome to CPA Game Enterprises! 
 
-![Welcome to CPA Game Enterprises](path_to_your_image) <!-- Replace with the actual image URL of your store -->
+![Welcome to CPA Game Enterprises](https://imgur.com/a/GeLWMRx) <!-- Replace with the actual image URL of your store -->
 
 - If you're looking for comics, trading cards, or board games, you're in the right place! 
 - Check out our Instagram for updates and sneak peeks: [![Instagram](https://image-link-to-instagram-icon)](https://www.instagram.com/your_instagram_handle) <!-- Replace with Instagram icon and URL -->
