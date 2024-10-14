@@ -15,6 +15,14 @@ title: CPA Game Enterprises
     align-items: flex-start;
   }
 
+  #credits {
+    display: none;
+  }
+
+  .credits {
+    display: none;
+  }
+
   .instagram-icon {
     margin: 20px;
   }
