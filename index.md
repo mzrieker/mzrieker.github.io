@@ -5,7 +5,7 @@ title: CPA Game Enterprises
 
 <style>
   body {
-    background-image: url('https://imgur.com/a/WU6UjfD'); /* Replace with your image URL */
+    background-image: url('https://i.imgur.com/OBYGATF.png'); /* Replace with your image URL */
     background-size: cover;
     background-position: center;
     height: 100vh;
