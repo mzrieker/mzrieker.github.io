@@ -3,16 +3,28 @@ layout: default
 title: CPA Game Enterprises
 ---
 
-# Welcome to CPA Game Enterprises! 
+<style>
+  body {
+    background-image: url('path_to_your_image'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+  }
 
-![Welcome to CPA Game Enterprises](https://imgur.com/a/GeLWMRx) <!-- Replace with the actual image URL of your store -->
+  .instagram-icon {
+    margin: 20px;
+  }
 
-- If you're looking for comics, trading cards, or board games, you're in the right place! 
-- Check out our Instagram for updates and sneak peeks: [![Instagram](https://image-link-to-instagram-icon)](https://www.instagram.com/your_instagram_handle) <!-- Replace with Instagram icon and URL -->
+  .instagram-icon img {
+    width: 50px;
+    height: 50px;
+  }
+</style>
 
-## Store Under Construction
-We’re thrilled to share that **CPA Game Enterprises** will be your go-to for **comics, trading cards, and board games**! Both the website and our physical store are still under construction, and there’s a lot more to come. But we're excited you found us, and we're making progress every day! Stay tuned and check back soon as we get closer to our grand opening!
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-© 2025 CPA Game Enterprises
+<a href="https://www.instagram.com/lilmackthesnack" class="instagram-icon" target="_blank">
+  <img src="https://image-link-to-instagram-icon" alt="Instagram Icon"> <!-- Replace with your Instagram icon URL -->
+</a>
