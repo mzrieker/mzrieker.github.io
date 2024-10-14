@@ -6,8 +6,9 @@ title: CPA Game Enterprises
 <style>
   body {
     background-image: url('https://i.imgur.com/OBYGATF.png'); /* Replace with your image URL */
-    background-size: cover;
-    background-position: center;
+    background-size: contain; /* Use 'contain' to scale the image proportionally to fit inside the viewport */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: center; /* Center the image */
     height: 100vh;
     margin: 0;
     display: flex;
