@@ -33,4 +33,4 @@ Over the past 8+ years I’ve led projects ranging from **enterprise-scale AI ch
 When I’m not coding or tinkering with new ML models, you’ll probably find me experimenting with retro-futuristic design (hence the Snowfall brand), 3D printing custom game accessories, or geeking out about board games and AI ethics.
 
 📧 [mzrieker@gmail.com](mailto:mzrieker@gmail.com)  
-🔗 [GitHub](https://github.com/mzrieker) · [LinkedIn](https://www.linkedin.com/in/…) · [SnowfallDev.com](https://snowfalldev.com)
+🔗 [GitHub](https://github.com/mzrieker) · [LinkedIn](https://www.linkedin.com/in/mzrieker/) · [Discord](https://discord.com/users/169002008546770944)
