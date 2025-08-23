@@ -22,15 +22,6 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
-navbar:
-  - name: Home
-    url: /
-  - name: About
-    url: /about/
-  - name: Projects
-    url: /projects/
-  - name: Resume
-    url: /resume/
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -57,8 +48,8 @@ navbar_fixed: true
 footer_fixed: false
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
-bib_search: true
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px

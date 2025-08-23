@@ -3,14 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <i>All we have to decide is what to do with the time that is given us. ~ J.R.R. Tolkien</i>
+  <i>All we have to decide is what to do with the time that is given us.</i> ~ J.R.R. Tolkien
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>also go by mack</p>
+    <p>i also go by mack!</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
