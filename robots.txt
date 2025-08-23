@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://snowfalldev.com/sitemap.xml
+Sitemap: https://github.com/mzrieker/mzrieker.github.io/sitemap.xml
