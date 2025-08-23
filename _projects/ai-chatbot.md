@@ -4,30 +4,33 @@ title: "Enterprise AI Chatbot"
 description: >
   AI chatbot built at AVB Marketing, serving 1,000+ internal users and 600+ external dealers. 
   Became a keynote feature and helped secure new dealer partnerships.
-img: assets/img/12.jpg   # background image for project grid
+img: assets/img/12.jpg # background image for project grid
 importance: 1
 category: work
 ---
 
 ## Overview
+
 I led the design and delivery of an enterprise AI chatbot used by more than 1,600 users across AVB Marketing.  
-It became a keynote feature at the company-wide meeting and a top selling point in securing new dealer partnerships.  
+It became a keynote feature at the company-wide meeting and a top selling point in securing new dealer partnerships.
 
 ---
 
 ## Technology
-- **AWS Bedrock** for embeddings and inference  
-- **OpenSearch** for vector search + retrieval  
-- **SageMaker** for experimentation and scaling  
-- **Lambda / DynamoDB** for backend infra  
-- **React** frontend integration  
+
+- **AWS Bedrock** for embeddings and inference
+- **OpenSearch** for vector search + retrieval
+- **SageMaker** for experimentation and scaling
+- **Lambda / DynamoDB** for backend infra
+- **React** frontend integration
 
 ---
 
 ## Highlights
-- Keynote demo at AVB Marketing’s annual meeting  
-- 1,600+ daily users (internal and dealer network)  
-- Shifted sales narrative around AI adoption  
+
+- Keynote demo at AVB Marketing’s annual meeting
+- 1,600+ daily users (internal and dealer network)
+- Shifted sales narrative around AI adoption
 
 ---
 

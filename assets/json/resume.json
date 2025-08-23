@@ -89,25 +89,11 @@
     },
     {
       "name": "Development",
-      "keywords": [
-        "C#",
-        "Python",
-        "Angular",
-        "React",
-        "SQL",
-        ".NET Core",
-        "Entity Framework",
-        "REST APIs"
-      ]
+      "keywords": ["C#", "Python", "Angular", "React", "SQL", ".NET Core", "Entity Framework", "REST APIs"]
     },
     {
       "name": "Methodologies",
-      "keywords": [
-        "Agile",
-        "Scrum",
-        "Async Communication",
-        "Cross-Functional Leadership"
-      ]
+      "keywords": ["Agile", "Scrum", "Async Communication", "Cross-Functional Leadership"]
     }
   ],
   "education": [

@@ -5,7 +5,7 @@
 title: Snowfall Designs # the website title (if blank, full name will be used instead)
 logo: SnowfallDesignsLogo.png
 first_name: Marcus
-middle_name: 
+middle_name:
 last_name: Rieker
 contact_note: >
   Eager to meet & discuss how I can assist you or your company
@@ -22,6 +22,15 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
+navbar:
+  - name: Home
+    url: /
+  - name: About
+    url: /about/
+  - name: Projects
+    url: /projects/
+  - name: Resume
+    url: /resume/
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -45,7 +54,7 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -189,7 +198,7 @@ keep_files:
 
 # Plug-ins
 plugins:
-#  - jekyll-archives-v2
+  #  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
