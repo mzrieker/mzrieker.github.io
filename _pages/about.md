@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <i>All we have to decide is what to do with the time that is given us. ~ J.R.R. Tolkien</i>
 
 profile:
   align: right
