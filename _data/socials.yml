@@ -47,7 +47,7 @@ linkedin_username: mzrieker # your LinkedIn user name
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
+Discord: # can be any name here other than the ones already defined above
   logo: https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg # can be png, svg, jpg
   title: Discord
   url: https://discord.com/users/169002008546770944
