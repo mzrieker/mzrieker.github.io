@@ -14,7 +14,7 @@ ninja.data = [{
           description: "For a more concise view of my experience please click the PDF button above to download my 1 page resume.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/resume/";
+            window.location.href = "/cv/";
           },
         },{id: "projects-project-1",
           title: 'project 1',
