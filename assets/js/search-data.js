@@ -14,7 +14,7 @@ ninja.data = [{
           description: "For a more concise view of my experience please click the PDF button above to download my 1 page resume.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/resume/";
           },
         },{id: "projects-project-1",
           title: 'project 1',
@@ -48,8 +48,8 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/mzrieker", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-Discord',
+        title: 'Discord',
         section: 'Socials',
         handler: () => {
           window.open("https://discord.com/users/169002008546770944", "_blank");

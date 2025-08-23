@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://github.com/mzrieker/mzrieker.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://github.com/mzrieker/mzrieker.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-23T06:10:17+00:00</updated><id>https://github.com/mzrieker/mzrieker.github.io/feed.xml</id><title type="html">Snowfall Designs</title><subtitle>Portfolio of Mack — web developer, AI innovator, and freelance partner helping small businesses craft modern, impactful websites.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://github.com/mzrieker/mzrieker.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://github.com/mzrieker/mzrieker.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-08-23T06:17:20+00:00</updated><id>https://github.com/mzrieker/mzrieker.github.io/feed.xml</id><title type="html">Snowfall Designs</title><subtitle>Portfolio of Mack — web developer, AI innovator, and freelance partner helping small businesses craft modern, impactful websites.
 </subtitle><entry><title type="html">a post with plotly.js</title><link href="https://github.com/mzrieker/mzrieker.github.io/blog/2025/plotly/" rel="alternate" type="text/html" title="a post with plotly.js" /><published>2025-03-26T14:24:00+00:00</published><updated>2025-03-26T14:24:00+00:00</updated><id>https://github.com/mzrieker/mzrieker.github.io/blog/2025/plotly</id><content type="html" xml:base="https://github.com/mzrieker/mzrieker.github.io/blog/2025/plotly/"><![CDATA[<p>This is an example post with some <a href="https://plotly.com/javascript/">plotly</a> code.</p>
 
 <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">plotly
@@ -202,7 +202,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="4dc72c69-e262-402b-aa70-a300170dcbd7" data-name="log">
+<ul id="log" class="tab" data-tab="8ceaf5bd-f7f5-4932-9595-386c93405f68" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -217,7 +217,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="4dc72c69-e262-402b-aa70-a300170dcbd7" data-name="log">
+<ul class="tab-content" id="8ceaf5bd-f7f5-4932-9595-386c93405f68" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -241,7 +241,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="ad67d93b-80a2-4372-ae55-6d3da5c724b8" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="6db17587-283d-42e8-b558-7db707e532e0" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -252,7 +252,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="ad67d93b-80a2-4372-ae55-6d3da5c724b8" data-name="data-struct">
+<ul class="tab-content" id="6db17587-283d-42e8-b558-7db707e532e0" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -274,7 +274,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="2de6ad73-78f6-4a44-aa4d-9ddcfb0f8ad0" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="babc54c3-195e-4bbf-9d7b-18b99287e9fe" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -289,7 +289,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="2de6ad73-78f6-4a44-aa4d-9ddcfb0f8ad0" data-name="something-else">
+<ul class="tab-content" id="babc54c3-195e-4bbf-9d7b-18b99287e9fe" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
