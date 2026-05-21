@@ -14,7 +14,14 @@ ninja.data = [{
           description: "For a more concise view of my experience please click the PDF button above to download my 1 page resume.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/resume/";
+          },
+        },{id: "nav-smolhyper",
+          title: "smolhyper",
+          description: "Twitch chat commands and runtime status for SmolHyper.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/smolhyper/";
           },
         },{id: "projects-project-1",
           title: 'project 1',
