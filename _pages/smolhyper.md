@@ -178,7 +178,7 @@ _styles: |
 
     <div class="smolhyper-actions">
       <a class="smolhyper-button" href="https://www.twitch.tv/lilmackthesnack" target="_blank" rel="noreferrer">Open test channel</a>
-      <a class="smolhyper-button secondary" href="https://abstractbot.onrender.com/admin" target="_blank" rel="noreferrer">Mod console</a>
+      <a class="smolhyper-button secondary" href="https://smolhyper.snowfalldev.com/admin" target="_blank" rel="noreferrer">Mod console</a>
     </div>
 
     <div class="smolhyper-grid">
@@ -214,7 +214,7 @@ _styles: |
 
 <script>
   (() => {
-    const apiBase = "https://abstractbot.onrender.com";
+    const apiBase = "https://smolhyper.snowfalldev.com";
     const commandsElement = document.querySelector("#smolhyper-commands");
     const healthElement = document.querySelector("#smolhyper-health");
     const storageElement = document.querySelector("#smolhyper-storage");
