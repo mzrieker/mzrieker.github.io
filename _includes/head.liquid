@@ -1,3 +1,13 @@
+{% assign site_redirect_active = false %}
+{% if site.site_mode == 'redirect_to_smol' and site.site_redirect_url %}
+  {% assign site_redirect_active = true %}
+  <meta name="robots" content="noindex">
+  <meta http-equiv="refresh" content="0; url={{ site.site_redirect_url | xml_escape }}">
+  <script>
+    window.location.replace("{{ site.site_redirect_url | escape }}");
+  </script>
+{% endif %}
+
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
@@ -67,7 +77,7 @@
   <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+<link rel="canonical" href="{% if site_redirect_active %}{{ site.site_redirect_url | xml_escape }}{% else %}{{ page.url | replace:'index.html','' | absolute_url }}{% endif %}">
 
 {% if site.enable_darkmode %}
   <!-- Dark Mode -->

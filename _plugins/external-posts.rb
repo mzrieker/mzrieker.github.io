@@ -10,6 +10,8 @@ module ExternalPosts
     priority :high
 
     def generate(site)
+      return if site.config['site_mode'] == 'redirect_to_smol'
+
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
           puts "Fetching external posts from #{src['name']}:"

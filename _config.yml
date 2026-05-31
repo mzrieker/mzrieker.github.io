@@ -22,6 +22,12 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
+# Site mode
+# Use "active_resume_site" to show the portfolio/resume site again.
+# Use "redirect_to_smol" to send every page to the SmolHyper site.
+site_mode: redirect_to_smol
+site_redirect_url: https://smolhyper.snowfalldev.com/
+
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
