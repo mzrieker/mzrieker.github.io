@@ -3,6 +3,11 @@
   {% assign site_redirect_active = true %}
   <meta name="robots" content="noindex">
   <meta http-equiv="refresh" content="0; url={{ site.site_redirect_url | xml_escape }}">
+  <style>
+    body {
+      display: none !important;
+    }
+  </style>
   <script>
     window.location.replace('{{ site.site_redirect_url | escape }}');
   </script>
